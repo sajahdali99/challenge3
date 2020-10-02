@@ -1,3 +1,3 @@
 # /bin/bash
 
-sudo docker build -t tester .
+sudo docker build -t app .
