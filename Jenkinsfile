@@ -1,7 +1,7 @@
 pipeline {
 	agent any
 	stages {
-		stage('Build Images Push Images'){
+		stage('Build Images'){
 			steps {
 				sh "./buildscript.sh"
 			}
