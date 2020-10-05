@@ -1,3 +1,3 @@
 #! /bin/bash
 
-sudo docker build -t app .
+sudo docker build -t app.py .
